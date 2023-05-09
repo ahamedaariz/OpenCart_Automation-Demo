@@ -1,0 +1,2 @@
+cd D:\UdemySelenium_WorkspaceApril2023\Opencart_Application_Automation
+mvn test
